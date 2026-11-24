@@ -149,7 +149,7 @@ export default function HomePage() {
               name: "Lukas Wagner",
               role: "Angestellter",
               label: "Mandantenstimme",
-              imageSrc: "https://img.b2bpic.net/free-photo/top-view-desktop-with-paper-calculator_23-2148397910.jpg",
+              imageSrc: "https://img.b2bpic.net/free-photo/top-view-desktop-with-paper-calculator_23-2148397910.jpg?_wi=1",
               imageAlt: "laptop and financial chart on desk"
             },
             {
