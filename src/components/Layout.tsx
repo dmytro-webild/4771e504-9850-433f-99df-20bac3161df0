@@ -117,7 +117,7 @@ export default function Layout() {
           ]}
           copyright="© 2026 InvestSelect W. Foisinger. Alle Rechte vorbehalten."
           backToTop="Nach oben"
-          imageSrc="https://img.b2bpic.net/free-photo/top-view-desktop-with-paper-calculator_23-2148397910.jpg"
+          imageSrc="https://img.b2bpic.net/free-photo/top-view-desktop-with-paper-calculator_23-2148397910.jpg?_wi=2"
           imageAlt="Finanzanalyse und Dokumente auf dem Schreibtisch"
           ariaLabel="Fußzeile der Website"
         />
